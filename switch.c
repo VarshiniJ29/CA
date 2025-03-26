@@ -7,3 +7,6 @@ void main(){
 Case2:
 			printf("B.tech in AIML");
 			break;
+Case3:
+			printf("B.Tech in ECE");
+			break;
