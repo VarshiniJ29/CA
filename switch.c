@@ -9,6 +9,7 @@ Case2:
 			break;
 Case3:
 			printf("B.Tech in ECE");
+			printf("Electronics");
 			break;
 Case4:
 			printf("B.Tech in Mechanical");
