@@ -11,6 +11,7 @@ Case3:
 			printf("B.Tech in ECE");
 			break;
 Case4:
-			printf("B.Tech in Mechanical");
+			printf("B.Tech in Mechanical")
+				printf("MECHANICAL");
 			break;
 
